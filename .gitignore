@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+
+# Plans d'apprentissage internes (ignorés par Git pour garder le portfolio propre)
+PLAN_RIGOUREUX_RESSOURCES_GRATUITES.md
+plans/
+plan_*.md
