@@ -4,7 +4,7 @@ A rigorous, project-driven self-learning roadmap designed to master production-g
 
 ---
 
-## 📌 Repository Overview
+##  Repository Overview
 
 This repository documents my end-to-end learning journey through 15 hands-on projects, rigorous engineering benchmarks, and daily development logs.
 
@@ -23,7 +23,7 @@ This repository documents my end-to-end learning journey through 15 hands-on pro
 
 ---
 
-## 🎯 Engineering Standards
+## Engineering Standards
 - **Strict Typing & Schema Validation**: 100% of structured LLM outputs are enforced using Pydantic models.
 - **Security-First Architecture**: Zero hardcoded secrets, strict input sanitization, and defensive guardrails.
 - **Scientific Evaluation**: System improvements are measured with reproducible quantitative benchmarks (accuracy, latency, cost per query).
